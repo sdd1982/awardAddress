@@ -1,0 +1,1 @@
+Contiene la ubicación física indicado en la licitación para la adjudicación
