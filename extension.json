@@ -1,1 +1,17 @@
-{"name":{"en":"awardAddress"},"description":{"en":"Contiene la ubicación física indicado en la licitación para la adjudicación"},"documentationUrl":{"en":"https://github.com/sdd1982/awardAddress/blob/master/README.md"}}
+{
+  "name": {
+    "en": "awardAddress"
+  },
+  "description": {
+    "en": "Contiene la ubicación física indicado en la licitación para la adjudicación"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/sdd1982/awardAddress/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
